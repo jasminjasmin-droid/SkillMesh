@@ -1,0 +1,6 @@
+{
+  "name": "Skill Mesh",
+  "description": "A peer-to-peer skill matching and exchange platform connecting people who want to learn and share skills.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
